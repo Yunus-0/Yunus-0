@@ -1,11 +1,11 @@
 <h1 align="left"><br>Hi 👋, I'm K Mohammad Yunus<br /></h1>
 <P>align="left">I'm an Electrical and Electronics student passionate about building real-world solutions using Python, SQL and HTML. I enjoy exploring  innovative technology and applying tools like MATLAB Simulation and AutoCAD to solve practical problem. Always eager to learn, grow, and contribute to exciting development challenges.</P><br>
 
-<h5>Email Me 👉 ✉️For collaborations, projects, or inquiries, feel free to reach out at: yunuskmohammad4@gmail.com </h5>
+<h4>Email Me 👉 ✉️For collaborations, projects, or inquiries, feel free to reach out at: yunuskmohammad4@gmail.com </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yunus-0&label=Profile%20views&color=0e75b6&style=flat" alt="yunus-0" /> </p>
 
-- 🔭<b> I’m currently working on:<b/> An IoT-based smart grid solution called PowerPulse — designed to enable real-time load monitoring, automatic outage detection, remote alert notifications, and cloud-based analytics for enhanced energy efficiency and grid reliability.
+- 🔭<h5> I’m currently working on:<h5/> An IoT-based smart grid solution called PowerPulse — designed to enable real-time load monitoring, automatic outage detection, remote alert notifications, and cloud-based analytics for enhanced energy efficiency and grid reliability.
 
 - 🌱<b>I’m currently learning:<b/> Advanced Python skills, Mongo DB.
 
