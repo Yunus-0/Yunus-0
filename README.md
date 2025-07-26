@@ -1,5 +1,5 @@
 <h1 align="left"><br>Hi 👋, I'm K Mohammad Yunus<br /></h1>
-<P>align="left">I'm an Electrical and Electronics student passionate about building real-world solutions using Python, SQL and HTML. I enjoy exploring  innovative technology and applying tools like MATLAB Simulation and AutoCAD to solve practical problem. Always eager to learn, grow, and contribute to exciting development challenges.</P><br>
+<P>align="left">I'm an Electrical and Electronics student passionate about building real-world solutions using Python, SQL and HTML. I enjoy exploring  innovative technology and applying tools like MATLAB Simulation and AutoCAD to solve practical problem. Always eager to learn, grow, and contribute to exciting development challenges.</P>
 
 <h4>Email Me 👉 ✉️For collaborations, projects, or inquiries, feel free to reach out at: yunuskmohammad4@gmail.com </h4>
 
@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with: Implementing anomaly detection for power usage trends, refining system alerts, and building energy consumption analytics for smarter grid decisions
 
-- 💬 Ask me about:<p>Collaboration, IoT-based energy grid innovations or anything around tech for social impact</p>
+- 💬 Ask me about:Collaboration, IoT-based energy grid innovations or anything around tech for social impact.
 
 - 📫 **How to reach me** yunuskmohammad4@gmail.com
 
