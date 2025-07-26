@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yunus-0&label=Profile%20views&color=0e75b6&style=flat" alt="yunus-0" /> </p>
 
-- 🔭<h5> I’m currently working on:<h5/> An IoT-based smart grid solution called PowerPulse — designed to enable real-time load monitoring, automatic outage detection, remote alert notifications, and cloud-based analytics for enhanced energy efficiency and grid reliability.
+- 🔭<b> I’m currently working on:<b/> An IoT-based smart grid solution called PowerPulse — designed to enable real-time load monitoring, automatic outage detection, remote alert notifications, and cloud-based analytics for enhanced energy efficiency and grid reliability.
 
 - 🌱<b>I’m currently learning:<b/> Advanced Python skills, Mongo DB.
 
@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with: Implementing anomaly detection for power usage trends, refining system alerts, and building energy consumption analytics for smarter grid decisions
 
-- 💬 Ask me about: Collaboration, IoT-based energy grid innovations or anything around tech for social impact
+- 💬 Ask me about:<p>Collaboration, IoT-based energy grid innovations or anything around tech for social impact</p>
 
 - 📫 **How to reach me** yunuskmohammad4@gmail.com
 
